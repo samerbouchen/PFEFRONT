@@ -29,7 +29,7 @@ function Login() {
     }
   }
 // hello ☻ 
-// welcome 
+// welcom
   return (
     <div>
       {home ? (
